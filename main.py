@@ -1,1 +1,2 @@
-MTM3ODQwNjczNzI3MDI3NjIyOA.GiQ8-r.Aih2CIX2DXFFmiaZecvTA3iNl_P0fG_bJlglIo
+import os
+bot.run(os.getenv("TOKEN"))
